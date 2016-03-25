@@ -1,0 +1,2 @@
+//noop
+require("./_alias")
